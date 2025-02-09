@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=IC1 Old Footprint=SOIC4- HEAD New Footprint=SOIC4- SIDE
+Change Component Footprint: Designator=IC2 Old Footprint=SOIC4- HEAD New Footprint=SOIC4- SIDE
+Added Member To Class: ClassName=SideSensors Member=Component C1 CC0805KRX7R9BB104

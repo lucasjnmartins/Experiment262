@@ -1,0 +1,14 @@
+Change Component Designator: OldDesignator=C? NewDesignator=C1
+Change Component Designator: OldDesignator=C? NewDesignator=C2
+Change Component Designator: OldDesignator=IC? NewDesignator=IC1
+Change Component Designator: OldDesignator=IC? NewDesignator=IC2
+Change Component Designator: OldDesignator=J? NewDesignator=J1
+Change Component Designator: OldDesignator=R? NewDesignator=R1
+Change Component Designator: OldDesignator=R? NewDesignator=R2
+Change Net Name : Old Net Name=NetIC?_1 New Net Name=NetIC1_2
+Added Pin To Net: NetName=NetIC1_1 Pin=IC1-1
+Added Pin To Net: NetName=NetIC1_1 Pin=R1-2
+Added Net: Name=NetIC1_1
+Added Member To Class: ClassName=SideSensors Member=Component C2 CC0805KRX7R9BB104
+Added Member To Class: ClassName=SideSensors Member=Component IC2 QRE1113GR
+Added Member To Class: ClassName=SideSensors Member=Component R2 0805W8F4701T5E

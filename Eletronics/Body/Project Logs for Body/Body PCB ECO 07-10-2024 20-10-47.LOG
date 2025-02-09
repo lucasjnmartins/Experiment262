@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=5V Pin=J2-1
+Removed Pin From Net: NetName=3V3 Pin=J2-2
+Removed Pin From Net: NetName=GND Pin=J2-4
+Removed Pin From Net: NetName=5V Pin=J3-1
+Removed Pin From Net: NetName=3V3 Pin=J3-2
+Removed Pin From Net: NetName=GND Pin=J3-4
+Change Component Designator: OldDesignator=   NewDesignator=C9
+Added Pin To Net: NetName=GND Pin=J2-1
+Added Pin To Net: NetName=3V3 Pin=J2-3
+Added Pin To Net: NetName=5V Pin=J2-4
+Added Pin To Net: NetName=GND Pin=J3-1
+Added Pin To Net: NetName=3V3 Pin=J3-3
+Added Pin To Net: NetName=5V Pin=J3-4
+Added Pin To Net: NetName=NetJ2_2 Pin=J2-2
+Added Pin To Net: NetName=NetJ2_2 Pin=U4-9
+Added Net: Name=NetJ2_2
+Added Pin To Net: NetName=NetJ3_2 Pin=J3-2
+Added Pin To Net: NetName=NetJ3_2 Pin=U4-10
+Added Net: Name=NetJ3_2

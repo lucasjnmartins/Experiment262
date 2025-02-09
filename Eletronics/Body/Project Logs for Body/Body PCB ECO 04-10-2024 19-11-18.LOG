@@ -1,0 +1,53 @@
+Removed Pin From Net: NetName=NetD4_K Pin=R7-1
+Removed Pin From Net: NetName=GND Pin=R8-2
+Removed Pin From Net: NetName=NetD6_K Pin=R9-1
+Removed Pin From Net: NetName=GND Pin=R9-2
+Removed Pin From Net: NetName=GND Pin=R10-2
+Removed Pin From Net: NetName=GND Pin=R11-2
+Removed Pin From Net: NetName=GND Pin=R12-2
+Removed Pin From Net: NetName=GND Pin=U4-8
+Removed Pin From Net: NetName=VBAT Pin=U4-9
+Removed Pin From Net: NetName=NetJ9_PIN1 Pin=U?-26
+Removed Pin From Net: NetName=NetJ11_PIN1 Pin=U?-27
+Removed Pin From Net: NetName=NetR18_1 Pin=U?-28
+Removed Pin From Net: NetName=NetR17_1 Pin=U?-29
+Removed Member From Class: ClassName=Leds Member=D3
+Removed Member From Class: ClassName=Leds Member=D5
+Removed Member From Class: ClassName=Leds Member=D7
+Removed Member From Class: ClassName=Leds Member=D8
+Removed Member From Class: ClassName=Leds Member=D9
+Removed Member From Class: ClassName=Leds Member=R8
+Removed Member From Class: ClassName=Leds Member=R9
+Removed Member From Class: ClassName=Leds Member=R10
+Removed Member From Class: ClassName=Leds Member=R11
+Removed Member From Class: ClassName=Leds Member=R12
+Removed Member From Class: ClassName=Leds Member=U4
+Change Component Comment : Designator=R6 Old Comment=0805W8F6800T5E New Comment=0805W8F1000T5E
+Change Component Comment : Designator=R7 Old Comment=0805W8F6800T5E New Comment=0805W8F1000T5E
+Change Component Designator: OldDesignator=U? NewDesignator=U4
+Change component parameters: Designator = "R6" ("R6"); Footprint = "RES0805"; UniqueID = "\CCGOJIDA\SKJFGRHG" ("\CCGOJIDA\SKJFGRHG")
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2206010216_UNI-ROYAL-Uniroyal-Elec-0805W8F1000T5E_C17408.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Geometry.Height"; Value = "0.95mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC"; Value = "C17408"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "UNI-ROYAL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "0805W8F1000T5E"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100O"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R7" ("R7"); Footprint = "RES0805"; UniqueID = "\CCGOJIDA\RGLXICEG" ("\CCGOJIDA\RGLXICEG")
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2206010216_UNI-ROYAL-Uniroyal-Elec-0805W8F1000T5E_C17408.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Geometry.Height"; Value = "0.95mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC"; Value = "C17408"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "UNI-ROYAL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "0805W8F1000T5E"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100O"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetD4_K Pin=R6-1
+Added Pin To Net: NetName=NetD6_K Pin=R7-1
+Added Pin To Net: NetName=NetJ9_PIN1 Pin=U4-28
+Added Pin To Net: NetName=NetJ11_PIN1 Pin=U4-29
+Added Pin To Net: NetName=NetR18_1 Pin=U4-30
+Added Pin To Net: NetName=NetR17_1 Pin=U4-31
+Added Pin To Net: NetName=NetD4_A Pin=D4-A
+Added Pin To Net: NetName=NetD4_A Pin=U4-27
+Added Net: Name=NetD4_A
+Added Pin To Net: NetName=NetD6_A Pin=D6-A
+Added Pin To Net: NetName=NetD6_A Pin=U4-26
+Added Net: Name=NetD6_A

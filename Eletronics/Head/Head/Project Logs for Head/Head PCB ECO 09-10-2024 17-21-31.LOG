@@ -1,0 +1,24 @@
+Change Component Designator: OldDesignator=IC1 NewDesignator=IC2
+Change Component Designator: OldDesignator=IC2 NewDesignator=IC1
+Change Component Designator: OldDesignator=IC3 NewDesignator=IC4
+Change Component Designator: OldDesignator=IC4 NewDesignator=IC3
+Change Component Designator: OldDesignator=IC5 NewDesignator=IC6
+Change Component Designator: OldDesignator=IC6 NewDesignator=IC5
+Change Component Designator: OldDesignator=IC7 NewDesignator=IC8
+Change Component Designator: OldDesignator=IC8 NewDesignator=IC7
+Change Component Designator: OldDesignator=IC9 NewDesignator=IC10
+Change Component Designator: OldDesignator=IC10 NewDesignator=IC9
+Change Component Designator: OldDesignator=IC11 NewDesignator=IC12
+Change Component Designator: OldDesignator=IC12 NewDesignator=IC11
+Change Net Name : Old Net Name=NetIC1_1 New Net Name=NetIC2_1
+Change Net Name : Old Net Name=NetIC1_2 New Net Name=NetIC1_1
+Change Net Name : Old Net Name=NetIC3_1 New Net Name=NetIC4_1
+Change Net Name : Old Net Name=NetIC3_2 New Net Name=NetIC3_1
+Change Net Name : Old Net Name=NetIC5_1 New Net Name=NetIC6_1
+Change Net Name : Old Net Name=NetIC5_2 New Net Name=NetIC5_1
+Change Net Name : Old Net Name=NetIC7_1 New Net Name=NetIC8_1
+Change Net Name : Old Net Name=NetIC7_2 New Net Name=NetIC7_1
+Change Net Name : Old Net Name=NetIC9_1 New Net Name=NetIC10_1
+Change Net Name : Old Net Name=NetIC9_2 New Net Name=NetIC9_1
+Change Net Name : Old Net Name=NetIC11_1 New Net Name=NetIC12_1
+Change Net Name : Old Net Name=NetIC11_2 New Net Name=NetIC11_1

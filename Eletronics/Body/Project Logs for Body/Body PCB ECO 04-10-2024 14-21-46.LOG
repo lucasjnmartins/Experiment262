@@ -1,0 +1,133 @@
+Add Component: Footprint Not Found CAP0805
+Add Component: Footprint Not Found CAP0805
+Add Component: Footprint Not Found CAP0805
+Add Component: Footprint Not Found CAP0805
+Add Component: Footprint Not Found CAP0805
+Add Component: Footprint Not Found CAP0805
+Add Component: Footprint Not Found CAP0805
+Add Component: Footprint Not Found CAP0805
+Add Component: Footprint Not Found CAP0805
+Add Component: Footprint Not Found CAP0805
+Add Component: Footprint Not Found CAP0805
+Add Component: Footprint Not Found SMA_L4.3-W2.6-LS5.2-RD
+Add Component: Footprint Not Found LED0805
+Add Component: Footprint Not Found LED0805
+Add Component: Footprint Not Found LED0805
+Add Component: Footprint Not Found LED0805
+Add Component: Footprint Not Found LED0805
+Add Component: Footprint Not Found LED0805
+Add Component: Footprint Not Found LED0805
+Add Component: Footprint Not Found LED0805
+Add Component: Footprint Not Found FPC-SMD-P1.00-10P_LCS-SJ-H2.5
+Add Component: Footprint Not Found FPC-SMD-P1.00-4P_LCS-XJ-H2.5
+Add Component: Footprint Not Found FPC-SMD-P1.00-4P_LCS-XJ-H2.5
+Add Component: Footprint Not Found XT30
+Add Component: Footprint Not Found MALE HEADER 4
+Add Component: Footprint Not Found MALE HEADER 4
+Add Component: Footprint Not Found FEMALE HEADER 3
+Add Component: Footprint Not Found FEMALE HEADER 3
+Add Component: Footprint Not Found FEMALE HEADER 3
+Add Component: Footprint Not Found FEMALE HEADER 3
+Add Component: Footprint Not Found FEMALE HEADER 3
+Add Component: Footprint Not Found FEMALE HEADER 3
+Add Component: Footprint Not Found SOT-23
+Add Component: Footprint Not Found RES0805
+Add Component: Footprint Not Found RES0805
+Add Component: Footprint Not Found RES0805
+Add Component: Footprint Not Found RES0805
+Add Component: Footprint Not Found RES0805
+Add Component: Footprint Not Found RES0805
+Add Component: Footprint Not Found RES0805
+Add Component: Footprint Not Found RES0805
+Add Component: Footprint Not Found RES0805
+Add Component: Footprint Not Found RES0805
+Add Component: Footprint Not Found RES0805
+Add Component: Footprint Not Found RES0805
+Add Component: Footprint Not Found RES0805
+Add Component: Footprint Not Found RES0805
+Add Component: Footprint Not Found RES0805
+Add Component: Footprint Not Found RES0805
+Add Component: Footprint Not Found RES0805
+Add Component: Footprint Not Found RES0805
+Add Component: Footprint Not Found RES0805
+Add Component: Footprint Not Found RES0805
+Add Component: Footprint Not Found RES0805
+Add Component: Footprint Not Found RES0805
+Add Component: Footprint Not Found SW-TH_SHOU-HAN_SS12D10G4
+Add Component: Footprint Not Found TO-263-3_L8.6-W10.2-P2.54-LS14.4-BR
+Add Component: Footprint Not Found TO-263-3_L8.6-W10.2-P2.54-LS14.4-BR
+Add Component: Footprint Not Found SOT-89-3_L4.5-W2.5-P1.50-LS4.2-BR
+Add Component: Footprint Not Found SOIC-16_L9.9-W3.9-P1.27-LS6.0-BL
+Add Component: Footprint Not Found QFN40P300X300X95-25N-D
+Add Component: Footprint Not Found MODULE_ESP32-DEVKITC-32U
+Added Net: Name=3V3
+Added Net: Name=5VESP
+Added Net: Name=5V
+Added Net: Name=ENC_1
+Added Net: Name=ENC_2
+Added Net: Name=ENC_3
+Added Net: Name=ENC_4
+Added Net: Name=GND
+Added Net: Name=LED_1
+Added Net: Name=LED_2
+Added Net: Name=LED_3
+Added Net: Name=LED_4
+Added Net: Name=LED_5
+Added Net: Name=LED_6
+Added Net: Name=LED_7
+Added Net: Name=MOSFET_H
+Added Net: Name=NetC7_1
+Added Net: Name=NetC8_2
+Added Net: Name=NetD1_A
+Added Net: Name=NetD1_C
+Added Net: Name=NetD2_K
+Added Net: Name=NetD3_K
+Added Net: Name=NetD4_K
+Added Net: Name=NetD5_K
+Added Net: Name=NetD6_K
+Added Net: Name=NetD7_K
+Added Net: Name=NetD8_K
+Added Net: Name=NetD9_K
+Added Net: Name=NetJ1_3
+Added Net: Name=NetJ1_4
+Added Net: Name=NetJ1_5
+Added Net: Name=NetJ1_6
+Added Net: Name=NetJ1_7
+Added Net: Name=NetJ1_8
+Added Net: Name=NetJ2_3
+Added Net: Name=NetJ3_3
+Added Net: Name=NetJ7_PIN1
+Added Net: Name=NetJ8_PIN1
+Added Net: Name=NetJ9_PIN1
+Added Net: Name=NetJ10_PIN1
+Added Net: Name=NetJ11_PIN1
+Added Net: Name=NetJ12_PIN1
+Added Net: Name=NetQ1_G
+Added Net: Name=NetR1_1
+Added Net: Name=NetR3_1
+Added Net: Name=NetR15_1
+Added Net: Name=NetR16_1
+Added Net: Name=NetR17_1
+Added Net: Name=NetR18_1
+Added Net: Name=NetU4_1
+Added Net: Name=NetU4_2
+Added Net: Name=NetU4_3
+Added Net: Name=NetU4_4
+Added Net: Name=NetU4_5
+Added Net: Name=NetU4_6
+Added Net: Name=NetU4_7
+Added Net: Name=SCL
+Added Net: Name=SDA
+Added Net: Name=VBAT
+Added Class: Name=Connectors
+Added Class: Name=Drivers
+Added Class: Name=Encoders
+Added Class: Name=ESP32
+Added Class: Name=Gyro
+Added Class: Name=Leds
+Added Class: Name=Supply
+Added Rule: Name=Schematic Supply Nets
+Added Rule: Name=Schematic Supply Nets_1
+Added Rule: Name=Schematic Supply Nets_2
+Added Rule: Name=Schematic Supply Nets_3
+Added Rule: Name=Schematic Supply Nets_4

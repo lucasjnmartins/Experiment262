@@ -1,0 +1,23 @@
+Change Component Footprint: Designator=J2 Old Footprint=FPC-SMD-P1.00-4P_LCS-XJ-H2.5 New Footprint=FPC-SMD-P1.00-4P_JST
+Change Component Footprint: Designator=J3 Old Footprint=FPC-SMD-P1.00-4P_LCS-XJ-H2.5 New Footprint=FPC-SMD-P1.00-4P_JST
+Change Component Comment : Designator=J2 Old Comment=AFA07-S04FCA-00 New Comment=04FMS-1.0SP-TF(LF)(SN)
+Change Component Comment : Designator=J3 Old Comment=AFA07-S04FCA-00 New Comment=04FMS-1.0SP-TF(LF)(SN)
+Change component parameters: Designator = "J2" ("J2"); Footprint = "FPC-SMD-P1.00-4P_LCS-XJ-H2.5"; UniqueID = "\SZICOAVA\IOWCOMGH" ("\SZICOAVA\IOWCOMGH")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "JLCPCB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://jlcpcb.com/partdetail/Jst-04FMS_1_0SP_TF_LF_SN/C265033"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.lcsc.com/datasheet/lcsc_datasheet_1811061308_JST-04FMS-1-0SP-TF-LF-SN_C265033.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Geometry.Height"; Value = "2.80mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC"; Value = "C265033"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "JST"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "04FMS-1.0SP-TF(LF)(SN)"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J3" ("J3"); Footprint = "FPC-SMD-P1.00-4P_LCS-XJ-H2.5"; UniqueID = "\SZICOAVA\EMTEZPJT" ("\SZICOAVA\EMTEZPJT")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "JLCPCB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://jlcpcb.com/partdetail/Jst-04FMS_1_0SP_TF_LF_SN/C265033"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.lcsc.com/datasheet/lcsc_datasheet_1811061308_JST-04FMS-1-0SP-TF-LF-SN_C265033.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Geometry.Height"; Value = "2.80mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC"; Value = "C265033"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "JST"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "04FMS-1.0SP-TF(LF)(SN)"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=ESP32 Member=Component U4 ESP32-DEVKITC-32U

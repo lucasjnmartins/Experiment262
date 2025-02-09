@@ -1,0 +1,783 @@
+Added Component: Designator=C1(CAP0805)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_FH--Guangdong-Fenghua-Advanced-Tech-0805B334K500NT_C1740.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "JLCPCB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://jlcpcb.com/partdetail/2092-0805B334K500NT/C1740"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "0.95mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C1740"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "FH (Guangdong Fenghua Advanced Tech)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "0805B334K500NT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "330nF"; VariantName = "[No Variations]"
+Added Component: Designator=C2(CAP0805)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_FH--Guangdong-Fenghua-Advanced-Tech-0805B334K500NT_C1740.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "JLCPCB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://jlcpcb.com/partdetail/2092-0805B334K500NT/C1740"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "0.95mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C1740"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "FH (Guangdong Fenghua Advanced Tech)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "0805B334K500NT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "330nF"; VariantName = "[No Variations]"
+Added Component: Designator=C3(CAP0805)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.yageo.com/upload/media/product/productsearch/datasheet/mlcc/UPY-GPHC_X7R_6.3V-to-50V_20.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "0.95mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C49678"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CC0805KRX7R9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C4(CAP0805)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.yageo.com/upload/media/product/productsearch/datasheet/mlcc/UPY-GPHC_X7R_6.3V-to-50V_20.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "0.95mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C49678"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CC0805KRX7R9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C5(CAP0805)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/datasheet/lcsc_datasheet_2310251059_Murata-Electronics-GRM21BR61H106KE43L_C440198.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "JLCPCB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://jlcpcb.com/partdetail/439567-GRM21BR61H106KE43L/C440198"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "0.95mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C440198"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GRM21BR61H106KE43L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Added Component: Designator=C6(CAP0805)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/datasheet/lcsc_datasheet_2310251059_Murata-Electronics-GRM21BR61H106KE43L_C440198.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "JLCPCB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://jlcpcb.com/partdetail/439567-GRM21BR61H106KE43L/C440198"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "0.95mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C440198"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GRM21BR61H106KE43L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Added Component: Designator=C7(CAP0805)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Samsung-Electro-Mechanics-CL21B103KBANNNC_C1710.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "0.95mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C1710"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CL21B103KBANNNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10nF"; VariantName = "[No Variations]"
+Added Component: Designator=C8(CAP0805)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.yageo.com/upload/media/product/productsearch/datasheet/mlcc/UPY-GPHC_X7R_6.3V-to-50V_20.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "0.95mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C49678"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CC0805KRX7R9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "603-CC805KRX7R9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/YAGEO/CC0805KRX7R9BB104?qs=vTakOoo5QyLx0lXWgVtRhQ%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C9(CAP0805)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.yageo.com/upload/media/product/productsearch/datasheet/mlcc/UPY-GPHC_X7R_6.3V-to-50V_20.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "0.95mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C49678"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CC0805KRX7R9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "603-CC805KRX7R9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/YAGEO/CC0805KRX7R9BB104?qs=vTakOoo5QyLx0lXWgVtRhQ%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C10(CAP0805)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.yageo.com/upload/media/product/productsearch/datasheet/mlcc/UPY-GPHC_X7R_6.3V-to-50V_20.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "0.95mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C49678"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CC0805KRX7R9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C11(CAP0805)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.yageo.com/upload/media/product/productsearch/datasheet/mlcc/UPY-GPHC_X7R_6.3V-to-50V_20.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "0.95mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C49678"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CC0805KRX7R9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=D1(SMA_L4.3-W2.6-LS5.2-RD)
+Add component (AddParameter): Name = "Category"; Value = "Schottky Diodes & Rectifiers"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "JLCPCB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://jlcpcb.com/partdetail/mdd_microdiode_semiconductor-SS34/C8678"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.lcsc.com/datasheet/lcsc_datasheet_2407101107_MDD-Microdiode-Semiconductor-SS34_C8678.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current - Average Rectified (Io)"; Value = "3 A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current - Reverse Leakage @ Vr"; Value = "500 mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Diode Type"; Value = "Schottky Barrier Rectifier"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "MDD(Microdiode Semiconductor)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Forward Surge Current (Ifsm)"; Value = "80 A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "- 55ºC ~ 125ºC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "SMA(DO-214AC)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SS34"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - DC Reverse (Vr) (Max)"; Value = "40 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Forward (Vf) (Max) @ If"; Value = "550 mV"; VariantName = "[No Variations]"
+Added Component: Designator=D2(LED0805)
+Add component (AddParameter): Name = "Color"; Value = "Green"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.lcsc.com/datasheet/lcsc_datasheet_1806151129_Hubei-KENTO-Elec-KT-0805Y_C2296.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current - Forward (If)"; Value = "20mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C2297"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Hubei KENTO Elec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Forward (Vf)"; Value = "2.6V"; VariantName = "[No Variations]"
+Added Component: Designator=D3(LED0805)
+Add component (AddParameter): Name = "Color"; Value = "White"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.lcsc.com/datasheet/lcsc_datasheet_2305091500_Hubei-KENTO-Elec-KT-0805W_C34499.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current - Forward (If)"; Value = "25mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C34499"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Hubei KENTO Elec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Forward (Vf)"; Value = "2.8V"; VariantName = "[No Variations]"
+Added Component: Designator=D4(LED0805)
+Add component (AddParameter): Name = "Color"; Value = "White"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.lcsc.com/datasheet/lcsc_datasheet_2305091500_Hubei-KENTO-Elec-KT-0805W_C34499.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current - Forward (If)"; Value = "25mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C34499"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Hubei KENTO Elec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Forward (Vf)"; Value = "2.8V"; VariantName = "[No Variations]"
+Added Component: Designator=D5(LED0805)
+Add component (AddParameter): Name = "Color"; Value = "White"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.lcsc.com/datasheet/lcsc_datasheet_2305091500_Hubei-KENTO-Elec-KT-0805W_C34499.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current - Forward (If)"; Value = "25mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C34499"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Hubei KENTO Elec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Forward (Vf)"; Value = "2.8V"; VariantName = "[No Variations]"
+Added Component: Designator=D6(LED0805)
+Add component (AddParameter): Name = "Color"; Value = "Green"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.lcsc.com/datasheet/lcsc_datasheet_1806151129_Hubei-KENTO-Elec-KT-0805Y_C2296.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current - Forward (If)"; Value = "20mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C2297"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Hubei KENTO Elec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Forward (Vf)"; Value = "2.6V"; VariantName = "[No Variations]"
+Added Component: Designator=D7(LED0805)
+Add component (AddParameter): Name = "Color"; Value = "Green"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.lcsc.com/datasheet/lcsc_datasheet_1806151129_Hubei-KENTO-Elec-KT-0805Y_C2296.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current - Forward (If)"; Value = "20mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C2297"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Hubei KENTO Elec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Forward (Vf)"; Value = "2.6V"; VariantName = "[No Variations]"
+Added Component: Designator=D8(LED0805)
+Add component (AddParameter): Name = "Color"; Value = "Yellow"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.lcsc.com/datasheet/lcsc_datasheet_1806151129_Hubei-KENTO-Elec-KT-0805Y_C2296.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current - Forward (If)"; Value = "20mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C2296"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Hubei KENTO Elec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Forward (Vf)"; Value = "2.1V"; VariantName = "[No Variations]"
+Added Component: Designator=D9(LED0805)
+Add component (AddParameter): Name = "Color"; Value = "Yellow"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.lcsc.com/datasheet/lcsc_datasheet_1806151129_Hubei-KENTO-Elec-KT-0805Y_C2296.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current - Forward (If)"; Value = "20mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C2296"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Hubei KENTO Elec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Forward (Vf)"; Value = "2.1V"; VariantName = "[No Variations]"
+Added Component: Designator=J1(FPC-SMD-P1.00-10P_LCS-SJ-H2.5)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_JUSHUO-AFA07-S10ECA-00_C262737.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "2.50mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C262737"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "JUSHUO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "AFA07-S10ECA-00"; VariantName = "[No Variations]"
+Added Component: Designator=J2(FPC-SMD-P1.00-4P_LCS-XJ-H2.5)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_JUSHUO-AFA07-S04FCA-00_C262710.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "2.50mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C262710"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "JUSHUO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "AFA07-S04FCA-00"; VariantName = "[No Variations]"
+Added Component: Designator=J3(FPC-SMD-P1.00-4P_LCS-XJ-H2.5)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_JUSHUO-AFA07-S04FCA-00_C262710.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "2.50mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C262710"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "JUSHUO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "AFA07-S04FCA-00"; VariantName = "[No Variations]"
+Added Component: Designator=J4(XT30)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Supplier Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.gobilda.com/right-angle-pcb-mount-xt30-connector-mh-fc-2-pack/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Checked Footprint"; Value = "Under review"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Checked Schematic"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Last Project that Used"; Value = "Follow-Final"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Last Update"; Value = "24/04/2021 00:25"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Person that Checked Footprint"; Value = "Lucas"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Person that Checked Schematic"; Value = "Lucas"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Person that did the Last Update Footprint"; Value = "Mateus(Dimas)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Person that did the Last Update Schematic"; Value = "Mateus(Dimas)"; VariantName = "[No Variations]"
+Added Component: Designator=J5(MALE HEADER 4)
+Add component (AddParameter): Name = "Library Ref"; Value = "Header"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "4"; VariantName = "[No Variations]"
+Added Component: Designator=J6(MALE HEADER 4)
+Add component (AddParameter): Name = "Library Ref"; Value = "Header"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "4"; VariantName = "[No Variations]"
+Added Component: Designator=J7(FEMALE HEADER 3)
+Add component (AddParameter): Name = "Number of Contacts"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "System"; Value = "Connector"; VariantName = "[No Variations]"
+Added Component: Designator=J8(FEMALE HEADER 3)
+Add component (AddParameter): Name = "Number of Contacts"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "System"; Value = "Connector"; VariantName = "[No Variations]"
+Added Component: Designator=J9(FEMALE HEADER 3)
+Add component (AddParameter): Name = "Number of Contacts"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "System"; Value = "Connector"; VariantName = "[No Variations]"
+Added Component: Designator=J10(FEMALE HEADER 3)
+Add component (AddParameter): Name = "Number of Contacts"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "System"; Value = "Connector"; VariantName = "[No Variations]"
+Added Component: Designator=J11(FEMALE HEADER 3)
+Add component (AddParameter): Name = "Number of Contacts"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "System"; Value = "Connector"; VariantName = "[No Variations]"
+Added Component: Designator=J12(FEMALE HEADER 3)
+Add component (AddParameter): Name = "Number of Contacts"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "System"; Value = "Connector"; VariantName = "[No Variations]"
+Added Component: Designator=Q1(SOT-23)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://jlcpcb.com/partdetail/Alpha_OmegaSemicon-AO3400A/C20917"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current - Continuous Drain (Id) @25°C"; Value = "5.7A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Drain to Source Voltage (Vds)"; Value = "30V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FET Type"; Value = "N-Channel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gate Charge (Qg) (Max) @ Vgs"; Value = "7nC @ 4.5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Input Capacitance (Ciss) (Max) @Vds"; Value = "630pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C20917"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Alpha & Omega Semicon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55 °C ~150 °C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "SOT-23"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "AO3400A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Dissipation (Max)"; Value = "1.4 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rds On (Max) @ Id, Vgs"; Value = "38 mohm @ 5.7A, 10V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rise / Fall Time (Typ)"; Value = "2.5 ~ 2.0 (ns)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vgs (Max)"; Value = "12 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vgs(th) (Max) Id"; Value = "1.5V, Id =250uA"; VariantName = "[No Variations]"
+Added Component: Designator=R1(RES0805)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2206010045_UNI-ROYAL-Uniroyal-Elec-0805W8F3301T5E_C26010.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "0.95mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C26010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "UNI-ROYAL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "0805W8F3301T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "3.3kO"; VariantName = "[No Variations]"
+Added Component: Designator=R2(RES0805)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2206010216_UNI-ROYAL-Uniroyal-Elec-0805W8F1002T5E_C17414.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "0.95mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C17414"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "UNI-ROYAL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "0805W8F1002T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10kO"; VariantName = "[No Variations]"
+Added Component: Designator=R3(RES0805)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2206010216_UNI-ROYAL-Uniroyal-Elec-0805W8F1002T5E_C17414.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "0.95mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C17414"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "UNI-ROYAL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "0805W8F1002T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10kO"; VariantName = "[No Variations]"
+Added Component: Designator=R4(RES0805)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/datasheet/lcsc_datasheet_2205311830_UNI-ROYAL-Uniroyal-Elec-0805W8F6800T5E_C17798.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "0.95mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C17798"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "UNI-ROYAL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "0805W8F6800T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "680O"; VariantName = "[No Variations]"
+Added Component: Designator=R5(RES0805)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2206010045_UNI-ROYAL-Uniroyal-Elec-0805W8F3301T5E_C26010.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "0.95mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C26010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "UNI-ROYAL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "0805W8F3301T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "3.3kO"; VariantName = "[No Variations]"
+Added Component: Designator=R6(RES0805)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/datasheet/lcsc_datasheet_2205311830_UNI-ROYAL-Uniroyal-Elec-0805W8F6800T5E_C17798.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "0.95mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C17798"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "UNI-ROYAL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "0805W8F6800T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "680O"; VariantName = "[No Variations]"
+Added Component: Designator=R7(RES0805)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/datasheet/lcsc_datasheet_2205311830_UNI-ROYAL-Uniroyal-Elec-0805W8F6800T5E_C17798.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "0.95mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C17798"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "UNI-ROYAL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "0805W8F6800T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "680O"; VariantName = "[No Variations]"
+Added Component: Designator=R8(RES0805)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/datasheet/lcsc_datasheet_2205311830_UNI-ROYAL-Uniroyal-Elec-0805W8F6800T5E_C17798.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "0.95mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C17798"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "UNI-ROYAL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "0805W8F6800T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "680O"; VariantName = "[No Variations]"
+Added Component: Designator=R9(RES0805)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/datasheet/lcsc_datasheet_2205311830_UNI-ROYAL-Uniroyal-Elec-0805W8F6800T5E_C17798.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "0.95mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C17798"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "UNI-ROYAL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "0805W8F6800T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "680O"; VariantName = "[No Variations]"
+Added Component: Designator=R10(RES0805)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/datasheet/lcsc_datasheet_2205311830_UNI-ROYAL-Uniroyal-Elec-0805W8F6800T5E_C17798.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "0.95mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C17798"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "UNI-ROYAL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "0805W8F6800T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "680O"; VariantName = "[No Variations]"
+Added Component: Designator=R11(RES0805)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/datasheet/lcsc_datasheet_2205311830_UNI-ROYAL-Uniroyal-Elec-0805W8F6800T5E_C17798.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "0.95mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C17798"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "UNI-ROYAL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "0805W8F6800T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "680O"; VariantName = "[No Variations]"
+Added Component: Designator=R12(RES0805)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/datasheet/lcsc_datasheet_2205311830_UNI-ROYAL-Uniroyal-Elec-0805W8F6800T5E_C17798.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "0.95mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C17798"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "UNI-ROYAL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "0805W8F6800T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "680O"; VariantName = "[No Variations]"
+Added Component: Designator=R13(RES0805)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2206010200_UNI-ROYAL-Uniroyal-Elec-0805W8F4701T5E_C17673.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "0.95mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C17673"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "UNI-ROYAL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "0805W8F4701T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7kO"; VariantName = "[No Variations]"
+Added Component: Designator=R14(RES0805)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2206010200_UNI-ROYAL-Uniroyal-Elec-0805W8F4701T5E_C17673.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "0.95mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C17673"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "UNI-ROYAL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "0805W8F4701T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7kO"; VariantName = "[No Variations]"
+Added Component: Designator=R15(RES0805)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2206010045_UNI-ROYAL-Uniroyal-Elec-0805W8F3301T5E_C26010.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "0.95mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C26010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "UNI-ROYAL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "0805W8F3301T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "3.3kO"; VariantName = "[No Variations]"
+Added Component: Designator=R16(RES0805)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2206010045_UNI-ROYAL-Uniroyal-Elec-0805W8F3301T5E_C26010.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "0.95mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C26010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "UNI-ROYAL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "0805W8F3301T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "3.3kO"; VariantName = "[No Variations]"
+Added Component: Designator=R17(RES0805)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2206010045_UNI-ROYAL-Uniroyal-Elec-0805W8F3301T5E_C26010.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "0.95mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C26010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "UNI-ROYAL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "0805W8F3301T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "3.3kO"; VariantName = "[No Variations]"
+Added Component: Designator=R18(RES0805)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2206010045_UNI-ROYAL-Uniroyal-Elec-0805W8F3301T5E_C26010.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "0.95mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C26010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "UNI-ROYAL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "0805W8F3301T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "3.3kO"; VariantName = "[No Variations]"
+Added Component: Designator=R19(RES0805)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2206010200_UNI-ROYAL-Uniroyal-Elec-0805W8F4701T5E_C17673.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "0.95mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C17673"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "UNI-ROYAL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "0805W8F4701T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7kO"; VariantName = "[No Variations]"
+Added Component: Designator=R20(RES0805)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2206010200_UNI-ROYAL-Uniroyal-Elec-0805W8F4701T5E_C17673.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "0.95mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C17673"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "UNI-ROYAL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "0805W8F4701T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7kO"; VariantName = "[No Variations]"
+Added Component: Designator=R21(RES0805)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2206010200_UNI-ROYAL-Uniroyal-Elec-0805W8F4701T5E_C17673.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "0.95mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C17673"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "UNI-ROYAL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "0805W8F4701T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7kO"; VariantName = "[No Variations]"
+Added Component: Designator=R22(RES0805)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2206010200_UNI-ROYAL-Uniroyal-Elec-0805W8F4701T5E_C17673.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "0.95mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C17673"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "UNI-ROYAL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "0805W8F4701T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7kO"; VariantName = "[No Variations]"
+Added Component: Designator=SW1(SW-TH_SHOU-HAN_SS12D10G4)
+Add component (AddParameter): Name = "Actuator Color"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Actuator Style"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Circuit"; Value = "SPDT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating (AC)"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating (DC)"; Value = "2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20210820/80D1704BBF3FCEE0435FCAA54C61E0A3.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "SS12D10G4 071"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C2887259"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "SS12D10G4 071"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "SHOU HAN(??)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "SS12D10G4 071"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mechanical Life"; Value = "3??"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "Straight"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-16?~+60?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Style"; Value = "PCPin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "??"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Switch Height"; Value = "6.4mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Switch Length"; Value = "12.7mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Switch Width"; Value = "6.7mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "SS12D10G4 071"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (AC)"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "125V"; VariantName = "[No Variations]"
+Added Component: Designator=U1(TO-263-3_L8.6-W10.2-P2.54-LS14.4-BR)
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.lcsc.com/datasheet/lcsc_datasheet_2404031724_HGSEMI-LM7805CS-TR_C725350.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "JLCPCB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://jlcpcb.com/partdetail/Hgsemi-LM7805CSTR/C725350"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current - Output"; Value = "1.5 A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current - Quiescent (Iq)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C725350"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "HGSEMI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Power Dissipation"; Value = "15 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "0~125 ºC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Type"; Value = "Fixed"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package/ Case"; Value = "TO-263-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "LM7805CS/TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Dropout (Max)"; Value = "30 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Input (Max)"; Value = "35 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Output (Min/Fixed)"; Value = "5 V"; VariantName = "[No Variations]"
+Added Component: Designator=U2(TO-263-3_L8.6-W10.2-P2.54-LS14.4-BR)
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.lcsc.com/datasheet/lcsc_datasheet_2404031724_HGSEMI-LM7805CS-TR_C725350.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "JLCPCB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://jlcpcb.com/partdetail/Hgsemi-LM7805CSTR/C725350"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current - Output"; Value = "1.5 A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current - Quiescent (Iq)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C725350"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "HGSEMI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Power Dissipation"; Value = "15 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "0~125 ºC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Type"; Value = "Fixed"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package/ Case"; Value = "TO-263-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "LM7805CS/TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Dropout (Max)"; Value = "30 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Input (Max)"; Value = "35 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Output (Min/Fixed)"; Value = "5 V"; VariantName = "[No Variations]"
+Added Component: Designator=U3(SOT-89-3_L4.5-W2.5-P1.50-LS4.2-BR)
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.lcsc.com/datasheet/lcsc_datasheet_2312191111_Holtek-Semicon-HT7533-1_C14289.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current - Output"; Value = "100 mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current - Quiescent (Iq)"; Value = "8mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C14289"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Holtek Semicon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Power Dissipation"; Value = "500 mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40~85 ºC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Type"; Value = "Fixed"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package/ Case"; Value = "SOT-89-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "HT7533-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Dropout (Max)"; Value = "26.7 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Input (Max)"; Value = "30 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Output (Min/Fixed)"; Value = "3.3 V"; VariantName = "[No Variations]"
+Added Component: Designator=U4(SOIC-16_L9.9-W3.9-P1.27-LS6.0-BL)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://product.tdk.com/system/files/dam/doc/product/sensor/mortion-inertial/imu/data_sheet/mpu-6500-datasheet2.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "0.95mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C7512"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ULN2003ADR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOIC-16"; VariantName = "[No Variations]"
+Added Component: Designator=U5(QFN40P300X300X95-25N-D)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://product.tdk.com/system/files/dam/doc/product/sensor/mortion-inertial/imu/data_sheet/mpu-6500-datasheet2.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "0.95mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "MPU-6500"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "410-MPU-6500"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/TDK-InvenSense/MPU-6500?qs=u4fy%2FsgLU9PiIOIlWOSPhQ%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=U?(MODULE_ESP32-DEVKITC-32U)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/ESP32-DEVKITC-32U/Espressif+Systems/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Espressif Systems"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ESP32-DEVKITC-32U"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "CUSTOM-38 ESPRESSIF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/ESP32-DEVKITC-32U/Espressif+Systems/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=VBAT Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=VBAT Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=5V Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=5VESP Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=VBAT Pin=C5-2
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=3V3 Pin=C6-2
+Added Pin To Net: NetName=NetC7_1 Pin=C7-1
+Added Pin To Net: NetName=GND Pin=C7-2
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=NetC8_2 Pin=C8-2
+Added Pin To Net: NetName=3V3 Pin=C9-1
+Added Pin To Net: NetName=GND Pin=C9-2
+Added Pin To Net: NetName=5V Pin=C10-1
+Added Pin To Net: NetName=GND Pin=C10-2
+Added Pin To Net: NetName=5V Pin=C11-1
+Added Pin To Net: NetName=GND Pin=C11-2
+Added Pin To Net: NetName=NetD1_A Pin=D1-A
+Added Pin To Net: NetName=NetD1_C Pin=D1-C
+Added Pin To Net: NetName=VBAT Pin=D2-A
+Added Pin To Net: NetName=NetD2_K Pin=D2-K
+Added Pin To Net: NetName=LED_7 Pin=D3-A
+Added Pin To Net: NetName=NetD3_K Pin=D3-K
+Added Pin To Net: NetName=LED_1 Pin=D4-A
+Added Pin To Net: NetName=NetD4_K Pin=D4-K
+Added Pin To Net: NetName=LED_6 Pin=D5-A
+Added Pin To Net: NetName=NetD5_K Pin=D5-K
+Added Pin To Net: NetName=LED_2 Pin=D6-A
+Added Pin To Net: NetName=NetD6_K Pin=D6-K
+Added Pin To Net: NetName=LED_5 Pin=D7-A
+Added Pin To Net: NetName=NetD7_K Pin=D7-K
+Added Pin To Net: NetName=LED_3 Pin=D8-A
+Added Pin To Net: NetName=NetD8_K Pin=D8-K
+Added Pin To Net: NetName=LED_4 Pin=D9-A
+Added Pin To Net: NetName=NetD9_K Pin=D9-K
+Added Pin To Net: NetName=GND Pin=J1-1
+Added Pin To Net: NetName=MOSFET_H Pin=J1-2
+Added Pin To Net: NetName=NetJ1_3 Pin=J1-3
+Added Pin To Net: NetName=NetJ1_4 Pin=J1-4
+Added Pin To Net: NetName=NetJ1_5 Pin=J1-5
+Added Pin To Net: NetName=NetJ1_6 Pin=J1-6
+Added Pin To Net: NetName=NetJ1_7 Pin=J1-7
+Added Pin To Net: NetName=NetJ1_8 Pin=J1-8
+Added Pin To Net: NetName=3V3 Pin=J1-9
+Added Pin To Net: NetName=5V Pin=J1-10
+Added Pin To Net: NetName=GND Pin=J1-11
+Added Pin To Net: NetName=GND Pin=J1-12
+Added Pin To Net: NetName=5V Pin=J2-1
+Added Pin To Net: NetName=3V3 Pin=J2-2
+Added Pin To Net: NetName=NetJ2_3 Pin=J2-3
+Added Pin To Net: NetName=GND Pin=J2-4
+Added Pin To Net: NetName=GND Pin=J2-5
+Added Pin To Net: NetName=GND Pin=J2-6
+Added Pin To Net: NetName=5V Pin=J3-1
+Added Pin To Net: NetName=3V3 Pin=J3-2
+Added Pin To Net: NetName=NetJ3_3 Pin=J3-3
+Added Pin To Net: NetName=GND Pin=J3-4
+Added Pin To Net: NetName=GND Pin=J3-5
+Added Pin To Net: NetName=GND Pin=J3-6
+Added Pin To Net: NetName=NetD1_A Pin=J4-1
+Added Pin To Net: NetName=GND Pin=J4-2
+Added Pin To Net: NetName=5V Pin=J5-PIN1
+Added Pin To Net: NetName=GND Pin=J5-PIN2
+Added Pin To Net: NetName=ENC_1 Pin=J5-PIN3
+Added Pin To Net: NetName=ENC_2 Pin=J5-PIN4
+Added Pin To Net: NetName=5V Pin=J6-PIN1
+Added Pin To Net: NetName=GND Pin=J6-PIN2
+Added Pin To Net: NetName=ENC_3 Pin=J6-PIN3
+Added Pin To Net: NetName=ENC_4 Pin=J6-PIN4
+Added Pin To Net: NetName=NetJ7_PIN1 Pin=J7-PIN1
+Added Pin To Net: NetName=3V3 Pin=J7-PIN2
+Added Pin To Net: NetName=GND Pin=J7-PIN3
+Added Pin To Net: NetName=NetJ8_PIN1 Pin=J8-PIN1
+Added Pin To Net: NetName=3V3 Pin=J8-PIN2
+Added Pin To Net: NetName=GND Pin=J8-PIN3
+Added Pin To Net: NetName=NetJ9_PIN1 Pin=J9-PIN1
+Added Pin To Net: NetName=3V3 Pin=J9-PIN2
+Added Pin To Net: NetName=GND Pin=J9-PIN3
+Added Pin To Net: NetName=NetJ10_PIN1 Pin=J10-PIN1
+Added Pin To Net: NetName=3V3 Pin=J10-PIN2
+Added Pin To Net: NetName=GND Pin=J10-PIN3
+Added Pin To Net: NetName=NetJ11_PIN1 Pin=J11-PIN1
+Added Pin To Net: NetName=3V3 Pin=J11-PIN2
+Added Pin To Net: NetName=GND Pin=J11-PIN3
+Added Pin To Net: NetName=NetJ12_PIN1 Pin=J12-PIN1
+Added Pin To Net: NetName=3V3 Pin=J12-PIN2
+Added Pin To Net: NetName=GND Pin=J12-PIN3
+Added Pin To Net: NetName=MOSFET_H Pin=Q1-D
+Added Pin To Net: NetName=NetQ1_G Pin=Q1-G
+Added Pin To Net: NetName=GND Pin=Q1-S
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=NetQ1_G Pin=R1-2
+Added Pin To Net: NetName=GND Pin=R2-1
+Added Pin To Net: NetName=NetR1_1 Pin=R2-2
+Added Pin To Net: NetName=NetR3_1 Pin=R3-1
+Added Pin To Net: NetName=VBAT Pin=R3-2
+Added Pin To Net: NetName=GND Pin=R4-1
+Added Pin To Net: NetName=NetD2_K Pin=R4-2
+Added Pin To Net: NetName=GND Pin=R5-1
+Added Pin To Net: NetName=NetR3_1 Pin=R5-2
+Added Pin To Net: NetName=NetD3_K Pin=R6-1
+Added Pin To Net: NetName=GND Pin=R6-2
+Added Pin To Net: NetName=NetD4_K Pin=R7-1
+Added Pin To Net: NetName=GND Pin=R7-2
+Added Pin To Net: NetName=NetD5_K Pin=R8-1
+Added Pin To Net: NetName=GND Pin=R8-2
+Added Pin To Net: NetName=NetD6_K Pin=R9-1
+Added Pin To Net: NetName=GND Pin=R9-2
+Added Pin To Net: NetName=NetD7_K Pin=R10-1
+Added Pin To Net: NetName=GND Pin=R10-2
+Added Pin To Net: NetName=NetD8_K Pin=R11-1
+Added Pin To Net: NetName=GND Pin=R11-2
+Added Pin To Net: NetName=NetD9_K Pin=R12-1
+Added Pin To Net: NetName=GND Pin=R12-2
+Added Pin To Net: NetName=SDA Pin=R13-1
+Added Pin To Net: NetName=3V3 Pin=R13-2
+Added Pin To Net: NetName=SCL Pin=R14-1
+Added Pin To Net: NetName=3V3 Pin=R14-2
+Added Pin To Net: NetName=NetR15_1 Pin=R15-1
+Added Pin To Net: NetName=ENC_1 Pin=R15-2
+Added Pin To Net: NetName=NetR16_1 Pin=R16-1
+Added Pin To Net: NetName=ENC_2 Pin=R16-2
+Added Pin To Net: NetName=NetR17_1 Pin=R17-1
+Added Pin To Net: NetName=ENC_3 Pin=R17-2
+Added Pin To Net: NetName=NetR18_1 Pin=R18-1
+Added Pin To Net: NetName=ENC_4 Pin=R18-2
+Added Pin To Net: NetName=GND Pin=R19-1
+Added Pin To Net: NetName=NetR15_1 Pin=R19-2
+Added Pin To Net: NetName=GND Pin=R20-1
+Added Pin To Net: NetName=NetR16_1 Pin=R20-2
+Added Pin To Net: NetName=GND Pin=R21-1
+Added Pin To Net: NetName=NetR17_1 Pin=R21-2
+Added Pin To Net: NetName=GND Pin=R22-1
+Added Pin To Net: NetName=NetR18_1 Pin=R22-2
+Added Pin To Net: NetName=VBAT Pin=SW1-1
+Added Pin To Net: NetName=NetD1_C Pin=SW1-2
+Added Pin To Net: NetName=VBAT Pin=U1-1
+Added Pin To Net: NetName=GND Pin=U1-2
+Added Pin To Net: NetName=5V Pin=U1-3
+Added Pin To Net: NetName=GND Pin=U1-4
+Added Pin To Net: NetName=VBAT Pin=U2-1
+Added Pin To Net: NetName=GND Pin=U2-2
+Added Pin To Net: NetName=5VESP Pin=U2-3
+Added Pin To Net: NetName=GND Pin=U2-4
+Added Pin To Net: NetName=VBAT Pin=U3-1
+Added Pin To Net: NetName=GND Pin=U3-2
+Added Pin To Net: NetName=3V3 Pin=U3-3
+Added Pin To Net: NetName=NetU4_1 Pin=U4-1
+Added Pin To Net: NetName=NetU4_2 Pin=U4-2
+Added Pin To Net: NetName=NetU4_3 Pin=U4-3
+Added Pin To Net: NetName=NetU4_4 Pin=U4-4
+Added Pin To Net: NetName=NetU4_5 Pin=U4-5
+Added Pin To Net: NetName=NetU4_6 Pin=U4-6
+Added Pin To Net: NetName=NetU4_7 Pin=U4-7
+Added Pin To Net: NetName=GND Pin=U4-8
+Added Pin To Net: NetName=VBAT Pin=U4-9
+Added Pin To Net: NetName=LED_7 Pin=U4-10
+Added Pin To Net: NetName=LED_6 Pin=U4-11
+Added Pin To Net: NetName=LED_5 Pin=U4-12
+Added Pin To Net: NetName=LED_4 Pin=U4-13
+Added Pin To Net: NetName=LED_3 Pin=U4-14
+Added Pin To Net: NetName=LED_2 Pin=U4-15
+Added Pin To Net: NetName=LED_1 Pin=U4-16
+Added Pin To Net: NetName=NetC7_1 Pin=U5-8
+Added Pin To Net: NetName=GND Pin=U5-9
+Added Pin To Net: NetName=NetC8_2 Pin=U5-10
+Added Pin To Net: NetName=GND Pin=U5-11
+Added Pin To Net: NetName=3V3 Pin=U5-13
+Added Pin To Net: NetName=GND Pin=U5-18
+Added Pin To Net: NetName=GND Pin=U5-20
+Added Pin To Net: NetName=3V3 Pin=U5-22
+Added Pin To Net: NetName=SCL Pin=U5-23
+Added Pin To Net: NetName=SDA Pin=U5-24
+Added Pin To Net: NetName=GND Pin=U5-25
+Added Pin To Net: NetName=NetJ1_8 Pin=U?-3
+Added Pin To Net: NetName=NetJ1_7 Pin=U?-4
+Added Pin To Net: NetName=NetJ1_4 Pin=U?-5
+Added Pin To Net: NetName=NetJ1_3 Pin=U?-6
+Added Pin To Net: NetName=NetJ1_6 Pin=U?-7
+Added Pin To Net: NetName=NetJ1_5 Pin=U?-8
+Added Pin To Net: NetName=NetR3_1 Pin=U?-9
+Added Pin To Net: NetName=NetR15_1 Pin=U?-10
+Added Pin To Net: NetName=NetR16_1 Pin=U?-11
+Added Pin To Net: NetName=NetJ8_PIN1 Pin=U?-12
+Added Pin To Net: NetName=NetJ10_PIN1 Pin=U?-13
+Added Pin To Net: NetName=GND Pin=U?-14
+Added Pin To Net: NetName=NetJ12_PIN1 Pin=U?-15
+Added Pin To Net: NetName=5VESP Pin=U?-19
+Added Pin To Net: NetName=NetJ3_3 Pin=U?-23
+Added Pin To Net: NetName=NetJ2_3 Pin=U?-24
+Added Pin To Net: NetName=NetJ7_PIN1 Pin=U?-25
+Added Pin To Net: NetName=NetJ9_PIN1 Pin=U?-26
+Added Pin To Net: NetName=NetJ11_PIN1 Pin=U?-27
+Added Pin To Net: NetName=NetR18_1 Pin=U?-28
+Added Pin To Net: NetName=NetR17_1 Pin=U?-29
+Added Pin To Net: NetName=GND Pin=U?-32
+Added Pin To Net: NetName=SDA Pin=U?-33
+Added Pin To Net: NetName=SCL Pin=U?-36
+Added Pin To Net: NetName=NetR1_1 Pin=U?-37
+Added Pin To Net: NetName=GND Pin=U?-38
+Added Member To Class: ClassName=Supply Member=Component C1 0805B334K500NT
+Added Member To Class: ClassName=Supply Member=Component C2 0805B334K500NT
+Added Member To Class: ClassName=Supply Member=Component C3 CC0805KRX7R9BB104
+Added Member To Class: ClassName=Supply Member=Component C4 CC0805KRX7R9BB104
+Added Member To Class: ClassName=Supply Member=Component C5 GRM21BR61H106KE43L
+Added Member To Class: ClassName=Supply Member=Component C6 GRM21BR61H106KE43L
+Added Member To Class: ClassName=Gyro Member=Component C7 CL21B103KBANNNC
+Added Member To Class: ClassName=Gyro Member=Component C8 CC0805KRX7R9BB104
+Added Member To Class: ClassName=Gyro Member=Component C9 CC0805KRX7R9BB104
+Added Member To Class: ClassName=Encoders Member=Component C10 CC0805KRX7R9BB104
+Added Member To Class: ClassName=Encoders Member=Component C11 CC0805KRX7R9BB104
+Added Member To Class: ClassName=Supply Member=Component D1 SS34
+Added Member To Class: ClassName=Supply Member=Component D2 KT-0805G
+Added Member To Class: ClassName=Leds Member=Component D3 KT-0805W
+Added Member To Class: ClassName=Leds Member=Component D4 KT-0805W
+Added Member To Class: ClassName=Leds Member=Component D5 KT-0805W
+Added Member To Class: ClassName=Leds Member=Component D6 KT-0805G
+Added Member To Class: ClassName=Leds Member=Component D7 KT-0805G
+Added Member To Class: ClassName=Leds Member=Component D8 KT-0805Y
+Added Member To Class: ClassName=Leds Member=Component D9 KT-0805Y
+Added Member To Class: ClassName=Connectors Member=Component J1 AFA07-S10ECA-00
+Added Member To Class: ClassName=Connectors Member=Component J2 AFA07-S04FCA-00
+Added Member To Class: ClassName=Connectors Member=Component J3 AFA07-S04FCA-00
+Added Member To Class: ClassName=Supply Member=Component J4 BATTERY
+Added Member To Class: ClassName=Encoders Member=Component J5 Male Header 4
+Added Member To Class: ClassName=Encoders Member=Component J6 Male Header 4
+Added Member To Class: ClassName=Drivers Member=Component J7 Female Header 3
+Added Member To Class: ClassName=Drivers Member=Component J8 Female Header 3
+Added Member To Class: ClassName=Drivers Member=Component J9 Female Header 3
+Added Member To Class: ClassName=Drivers Member=Component J10 Female Header 3
+Added Member To Class: ClassName=Drivers Member=Component J11 Female Header 3
+Added Member To Class: ClassName=Drivers Member=Component J12 Female Header 3
+Added Member To Class: ClassName=Connectors Member=Component Q1 AO3400A
+Added Member To Class: ClassName=Connectors Member=Component R1 0805W8F3301T5E
+Added Member To Class: ClassName=Connectors Member=Component R2 0805W8F1002T5E
+Added Member To Class: ClassName=Supply Member=Component R3 0805W8F1002T5E
+Added Member To Class: ClassName=Supply Member=Component R4 0805W8F6800T5E
+Added Member To Class: ClassName=Supply Member=Component R5 0805W8F3301T5E
+Added Member To Class: ClassName=Leds Member=Component R6 0805W8F6800T5E
+Added Member To Class: ClassName=Leds Member=Component R7 0805W8F6800T5E
+Added Member To Class: ClassName=Leds Member=Component R8 0805W8F6800T5E
+Added Member To Class: ClassName=Leds Member=Component R9 0805W8F6800T5E
+Added Member To Class: ClassName=Leds Member=Component R10 0805W8F6800T5E
+Added Member To Class: ClassName=Leds Member=Component R11 0805W8F6800T5E
+Added Member To Class: ClassName=Leds Member=Component R12 0805W8F6800T5E
+Added Member To Class: ClassName=Gyro Member=Component R13 0805W8F4701T5E
+Added Member To Class: ClassName=Gyro Member=Component R14 0805W8F4701T5E
+Added Member To Class: ClassName=Encoders Member=Component R15 0805W8F3301T5E
+Added Member To Class: ClassName=Encoders Member=Component R16 0805W8F3301T5E
+Added Member To Class: ClassName=Encoders Member=Component R17 0805W8F3301T5E
+Added Member To Class: ClassName=Encoders Member=Component R18 0805W8F3301T5E
+Added Member To Class: ClassName=Encoders Member=Component R19 0805W8F4701T5E
+Added Member To Class: ClassName=Encoders Member=Component R20 0805W8F4701T5E
+Added Member To Class: ClassName=Encoders Member=Component R21 0805W8F4701T5E
+Added Member To Class: ClassName=Encoders Member=Component R22 0805W8F4701T5E
+Added Member To Class: ClassName=Supply Member=Component SW1 SS12D10G4 071
+Added Member To Class: ClassName=Supply Member=Component U1 LM7805CS/TR
+Added Member To Class: ClassName=Supply Member=Component U2 LM7805CS/TR
+Added Member To Class: ClassName=Supply Member=Component U3 HT7533-1
+Added Member To Class: ClassName=Leds Member=Component U4 ULN2003ADR
+Added Member To Class: ClassName=Gyro Member=Component U5 MPU-6500
+Added Member To Class: ClassName=ESP32 Member=Component U? ESP32-DEVKITC-32U

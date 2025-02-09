@@ -1,0 +1,53 @@
+Add Component: Footprint Not Found CAP0805
+Add Component: Footprint Not Found CAP0805
+Add Component: Footprint Not Found SOIC4- Head
+Add Component: Footprint Not Found SOIC4- Head
+Add Component: Footprint Not Found SOIC4- Head
+Add Component: Footprint Not Found SOIC4- Head
+Add Component: Footprint Not Found SOIC4- Head
+Add Component: Footprint Not Found SOIC4- Head
+Add Component: Footprint Not Found SOIC4- Head
+Add Component: Footprint Not Found SOIC4- Head
+Add Component: Footprint Not Found SOIC4- Head
+Add Component: Footprint Not Found SOIC4- Head
+Add Component: Footprint Not Found SOIC4- Head
+Add Component: Footprint Not Found SOIC4- Head
+Add Component: Footprint Not Found FPC-SMD-P1.00-10P_LCS-SJ-H2.5
+Add Component: Footprint Not Found RES0805
+Add Component: Footprint Not Found RES0805
+Add Component: Footprint Not Found RES0805
+Add Component: Footprint Not Found RES0805
+Add Component: Footprint Not Found RES0805
+Add Component: Footprint Not Found RES0805
+Add Component: Footprint Not Found RES0805
+Add Component: Footprint Not Found RES0805
+Add Component: Footprint Not Found RES0805
+Add Component: Footprint Not Found RES0805
+Add Component: Footprint Not Found RES0805
+Add Component: Footprint Not Found RES0805
+Added Net: Name=3V3
+Added Net: Name=5V
+Added Net: Name=Data1
+Added Net: Name=Data2
+Added Net: Name=Data3
+Added Net: Name=Data4
+Added Net: Name=Data5
+Added Net: Name=Data6
+Added Net: Name=GND
+Added Net: Name=MOSFET_H
+Added Net: Name=NetIC1_1
+Added Net: Name=NetIC1_2
+Added Net: Name=NetIC3_1
+Added Net: Name=NetIC3_2
+Added Net: Name=NetIC5_1
+Added Net: Name=NetIC5_2
+Added Net: Name=NetIC7_1
+Added Net: Name=NetIC7_2
+Added Net: Name=NetIC9_1
+Added Net: Name=NetIC9_2
+Added Net: Name=NetIC11_1
+Added Net: Name=NetIC11_2
+Added Class: Name=HeadSensors
+Added Rule: Name=Schematic Supply Nets
+Added Rule: Name=Schematic Supply Nets_1
+Added Rule: Name=Schematic Supply Nets_2
