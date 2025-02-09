@@ -36,8 +36,6 @@ void Dshot::ConfigureDshot() {
     };
 
     ESP_ERROR_CHECK(rmt_transmit(_esc_chan, _dshot_encoder, &_throttle, sizeof(_throttle), &_tx_config));
-
-    vTaskDelay(pdMS_TO_TICKS(5000));
 }
 
 void Dshot::UpdateThrottle(int value) {	

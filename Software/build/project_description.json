@@ -1,7 +1,7 @@
 {
     "version":            "1.1",
     "project_name":       "app-template",
-    "project_version":    "1",
+    "project_version":    "2fd5ef9-dirty",
     "project_path":       "C:/Users/Lucas/workspace/experiment626",
     "idf_path":           "C:/Espressif/frameworks/esp-idf-v5.3.1",
     "build_dir":          "C:/Users/Lucas/workspace/experiment626/build",
@@ -1180,7 +1180,7 @@
             "managed_reqs": [],
             "managed_priv_reqs": [],
             "file": "C:/Users/Lucas/workspace/experiment626/build/esp-idf/main/libmain.a",
-            "sources": [ "C:/Users/Lucas/workspace/experiment626/main/main.cpp", "C:/Users/Lucas/workspace/experiment626/main/dshot/dshot_esc_encoder.c", "C:/Users/Lucas/workspace/experiment626/main/dshot/dshot.cpp", "C:/Users/Lucas/workspace/experiment626/main/gpio/gpio_config.cpp", "C:/Users/Lucas/workspace/experiment626/main/adc/adc.cpp" ],
+            "sources": [ "C:/Users/Lucas/workspace/experiment626/main/main.cpp", "C:/Users/Lucas/workspace/experiment626/main/dshot/dshot_esc_encoder.c", "C:/Users/Lucas/workspace/experiment626/main/dshot/dshot.cpp", "C:/Users/Lucas/workspace/experiment626/main/gpio/gpio_config.cpp", "C:/Users/Lucas/workspace/experiment626/main/adc/adc.cpp", "C:/Users/Lucas/workspace/experiment626/main/encoder/encoder.cpp" ],
             "include_dirs": [ "." ]
         },
         "mbedtls": {

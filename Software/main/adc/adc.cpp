@@ -107,7 +107,6 @@ float Adc::ReadAdc(uint8_t i) {
 	} else {
 		ESP_ERROR_CHECK(adc_oneshot_read(_adc2_handle, _adc2_channels[i-6], &result));
 	}
-	
 	float value = 10.0*((float)(result - min_values[i]) / (float)(max_values[i] - min_values[i]));
 	if (_invert) {
 		value = 10.0 - value;
