@@ -1,0 +1,106 @@
+Change Component Comment : Designator=C1 Old Comment=0805B334K500NT New Comment=CL21A226MAQNNNE
+Change Component Comment : Designator=C2 Old Comment=0805B334K500NT New Comment=CL21A226MAQNNNE
+Change Component Comment : Designator=C3 Old Comment=CC0805KRX7R9BB104 New Comment=CL21A226MAQNNNE
+Change Component Comment : Designator=C4 Old Comment=CC0805KRX7R9BB104 New Comment=CL21A226MAQNNNE
+Change Component Comment : Designator=U1 Old Comment=LM7805CS/TR New Comment=LM2940S-5.0/TR
+Change Component Comment : Designator=U2 Old Comment=LM7805CS/TR New Comment=LM2940S-5.0/TR
+Change component parameters: Designator = "C1" ("C1"); Footprint = "CAP0805"; UniqueID = "\FUGQTLOH\XCCBXMIA" ("\FUGQTLOH\XCCBXMIA")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "JLCPCB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://jlcpcb.com/partdetail/46786-CL21A226MAQNNNE/C45783"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_Samsung-Electro-Mechanics-CL21A226MAQNNNE_C45783.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Geometry.Height"; Value = "0.95mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC"; Value = "C45783"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Samsung Electro-Mechanics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CL21A226MAQNNNE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C2" ("C2"); Footprint = "CAP0805"; UniqueID = "\FUGQTLOH\MXUAOUUI" ("\FUGQTLOH\MXUAOUUI")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "JLCPCB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://jlcpcb.com/partdetail/46786-CL21A226MAQNNNE/C45783"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_Samsung-Electro-Mechanics-CL21A226MAQNNNE_C45783.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Geometry.Height"; Value = "0.95mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC"; Value = "C45783"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Samsung Electro-Mechanics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CL21A226MAQNNNE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C3" ("C3"); Footprint = "CAP0805"; UniqueID = "\FUGQTLOH\IFLNFROH" ("\FUGQTLOH\IFLNFROH")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "JLCPCB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://jlcpcb.com/partdetail/46786-CL21A226MAQNNNE/C45783"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_Samsung-Electro-Mechanics-CL21A226MAQNNNE_C45783.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Geometry.Height"; Value = "0.95mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC"; Value = "C45783"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Samsung Electro-Mechanics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CL21A226MAQNNNE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C4" ("C4"); Footprint = "CAP0805"; UniqueID = "\FUGQTLOH\IETRBWFP" ("\FUGQTLOH\IETRBWFP")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "JLCPCB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://jlcpcb.com/partdetail/46786-CL21A226MAQNNNE/C45783"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_Samsung-Electro-Mechanics-CL21A226MAQNNNE_C45783.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Geometry.Height"; Value = "0.95mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC"; Value = "C45783"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Samsung Electro-Mechanics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CL21A226MAQNNNE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U1" ("U1"); Footprint = "TO-263-3_L8.6-W10.2-P2.54-LS14.4-BR"; UniqueID = "\FUGQTLOH\TEXOBPTI" ("\FUGQTLOH\TEXOBPTI")
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.lcsc.com/datasheet/lcsc_datasheet_2201242200_HGSEMI-LM2940S-5-0-TR_C434496.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3Description"; Value = "JLCPCB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3URL"; Value = "https://jlcpcb.com/partdetail/Hgsemi-LM2940S_5_0TR/C434496"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current - Output"; Value = "1 A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current - Quiescent (Iq)"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC"; Value = "C434496"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "HGSEMI"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Power Dissipation"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "0~125 ºC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Output Type"; Value = "Fixed"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package/ Case"; Value = "TO-263-3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "LM2940S-5.0/TR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage - Dropout (Max)"; Value = "21 V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage - Input (Max)"; Value = "26 V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage - Output (Min/Fixed)"; Value = "5 V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U2" ("U2"); Footprint = "TO-263-3_L8.6-W10.2-P2.54-LS14.4-BR"; UniqueID = "\FUGQTLOH\DVUHESDL" ("\FUGQTLOH\DVUHESDL")
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.lcsc.com/datasheet/lcsc_datasheet_2201242200_HGSEMI-LM2940S-5-0-TR_C434496.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3Description"; Value = "JLCPCB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3URL"; Value = "https://jlcpcb.com/partdetail/Hgsemi-LM2940S_5_0TR/C434496"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current - Output"; Value = "1 A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current - Quiescent (Iq)"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC"; Value = "C434496"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "HGSEMI"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Power Dissipation"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "0~125 ºC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Output Type"; Value = "Fixed"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package/ Case"; Value = "TO-263-3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "LM2940S-5.0/TR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage - Dropout (Max)"; Value = "21 V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage - Input (Max)"; Value = "26 V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage - Output (Min/Fixed)"; Value = "5 V"; VariantName = "[No Variations]"
+Added Component: Designator=C12(CAP0805)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "JLCPCB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://jlcpcb.com/partdetail/46786-CL21A226MAQNNNE/C45783"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_Samsung-Electro-Mechanics-CL21A226MAQNNNE_C45783.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "0.95mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C45783"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Samsung Electro-Mechanics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CL21A226MAQNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C13(CAP0805)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "JLCPCB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://jlcpcb.com/partdetail/46786-CL21A226MAQNNNE/C45783"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_Samsung-Electro-Mechanics-CL21A226MAQNNNE_C45783.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "0.95mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C45783"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Samsung Electro-Mechanics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CL21A226MAQNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C12-1
+Added Pin To Net: NetName=VBAT Pin=C12-2
+Added Pin To Net: NetName=GND Pin=C13-1
+Added Pin To Net: NetName=VBAT Pin=C13-2
+Added Member To Class: ClassName=Supply Member=Component C12 CL21A226MAQNNNE
+Added Member To Class: ClassName=Supply Member=Component C13 CL21A226MAQNNNE

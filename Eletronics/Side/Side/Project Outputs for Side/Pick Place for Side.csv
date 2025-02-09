@@ -1,0 +1,20 @@
+Altium Designer Pick and Place Locations
+C:\Users\Public\Documents\Altium\TFG\Side\Side\Project Outputs for Side\Pick Place for Side.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       15/10/24
+Time:       20:09
+Revision:   446c5210737a68a55dd119f53fb8c4e75efb3278
+Variant:    No variations
+Units used: mil
+
+"Designator","Comment","Layer","Footprint","Center-X(mil)","Center-Y(mil)","Rotation","Description","LCSC"
+"R1","0805W8F1000T5E","TopLayer","RES0805","433.071","216.535","180","125mW Thick Film Resistors 150V ±100ppm/? ±1% 100O 0805 Chip Resistor - Surface Mount ROHS","C17408"
+"R2","0805W8F4701T5E","TopLayer","RES0805","590.551","98.425","180","125mW Thick Film Resistors 150V ±100ppm/? ±1% 4.7kO 0805 Chip Resistor - Surface Mount ROHS","C17673"
+"J1","04FMS-1.0SP-TF(LF)(SN)","TopLayer","FPC-SMD-P1.00-4P_JST","834.657","157.468","90","Drawer Type 4P Dual-sided contacts / top and bottom connection Horizontal attachment 1mm SMD,P=1mm,Surface Mount,Right Angle FFC, FPC (Flat Flexible) Connector Assemblies ROHS","C265033"
+"IC1","QRE1113GR","TopLayer","SOIC4-_SIDE","192.913","157.480","90","IC IR-SENSOR",""
+"IC2","QRE1113GR","TopLayer","SOIC4-_SIDE","1185.039","157.480","90","IC IR-SENSOR",""
+"C1","CC0805KRX7R9BB104","TopLayer","CAP0805","590.551","216.535","0","Multilayer Ceramic Capacitors MLCC - SMD/SMT 50 V 0.1uF X7R 0805 10%","C49678"
+"C2","CC0805KRX7R9BB104","TopLayer","CAP0805","433.071","98.425","0","Multilayer Ceramic Capacitors MLCC - SMD/SMT 50 V 0.1uF X7R 0805 10%","C49678"

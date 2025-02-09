@@ -1,0 +1,6 @@
+Change component parameters: Designator = "J1" ("J1"); Footprint = "FPC-SMD-P1.00-10P_LCS-SJ-H2.5"; UniqueID = "\MXRSLZRY" ("\MXRSLZRY")
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_JUSHUO-AFA07-S10ECA-00_C262737.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Geometry.Height"; Value = "2.50mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC"; Value = "C262737"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "JUSHUO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "AFA07-S10ECA-00"; VariantName = "[No Variations]"

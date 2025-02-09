@@ -1,0 +1,131 @@
+Added Component: Designator=C?(CAP0805)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.yageo.com/upload/media/product/productsearch/datasheet/mlcc/UPY-GPHC_X7R_6.3V-to-50V_20.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "0.95mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C49678"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CC0805KRX7R9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAP0805)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.yageo.com/upload/media/product/productsearch/datasheet/mlcc/UPY-GPHC_X7R_6.3V-to-50V_20.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "0.95mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C49678"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CC0805KRX7R9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=IC?(SOIC4- Head)
+Add component (AddParameter): Name = "Category"; Value = "Phototransistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://br.mouser.com/datasheet/2/308/QRE1113_D-1814544.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Mouser Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://br.mouser.com/ProductDetail/ON-Semiconductor-Fairchild/QRE1113GR?qs=Qb0BA3xILekkPpSVC5x7uQ%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ic - Collector Current Max"; Value = "20mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "If - Forward Curren t(test)"; Value = "20mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "If - Forward Current Max"; Value = "50mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Checked Footprint"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Checked Schematic"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Last Project that Used"; Value = "Follow-Final"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Last Update"; Value = "24/04/2021 00:25"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Person that Checked Footprint"; Value = "Lucas"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Person that Checked Schematic"; Value = "Lucas"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Person that did the Last Update Footprint"; Value = "Mateus(Dimas)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Person that did the Last Update Schematic"; Value = "Mateus(Dimas)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Ref"; Value = "Phototransistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-25°C ~ 85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "SMD-4 Gull Wing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "QRE1113GR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pd - Power Dissipation"; Value = "75mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "1=1,150, 10=0,955, 100=0,542 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rise Time"; Value = "20us"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sensing Distance (máx)"; Value = "5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "512-QRE1113GR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vce - Collector/Emitter Voltage Max"; Value = "30V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vf - Forward Voltage"; Value = "1.4V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vr - Reverse Voltage"; Value = "5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wavelength"; Value = "940nm"; VariantName = "[No Variations]"
+Added Component: Designator=IC?(SOIC4- Head)
+Add component (AddParameter): Name = "Category"; Value = "Phototransistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://br.mouser.com/datasheet/2/308/QRE1113_D-1814544.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Mouser Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://br.mouser.com/ProductDetail/ON-Semiconductor-Fairchild/QRE1113GR?qs=Qb0BA3xILekkPpSVC5x7uQ%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ic - Collector Current Max"; Value = "20mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "If - Forward Curren t(test)"; Value = "20mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "If - Forward Current Max"; Value = "50mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Checked Footprint"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Checked Schematic"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Last Project that Used"; Value = "Follow-Final"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Last Update"; Value = "24/04/2021 00:25"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Person that Checked Footprint"; Value = "Lucas"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Person that Checked Schematic"; Value = "Lucas"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Person that did the Last Update Footprint"; Value = "Mateus(Dimas)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Person that did the Last Update Schematic"; Value = "Mateus(Dimas)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Ref"; Value = "Phototransistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-25°C ~ 85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "SMD-4 Gull Wing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "QRE1113GR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pd - Power Dissipation"; Value = "75mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "1=1,150, 10=0,955, 100=0,542 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rise Time"; Value = "20us"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sensing Distance (máx)"; Value = "5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "512-QRE1113GR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vce - Collector/Emitter Voltage Max"; Value = "30V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vf - Forward Voltage"; Value = "1.4V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vr - Reverse Voltage"; Value = "5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wavelength"; Value = "940nm"; VariantName = "[No Variations]"
+Added Component: Designator=J?(FPC-SMD-P1.00-4P_JST)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "JLCPCB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://jlcpcb.com/partdetail/Jst-04FMS_1_0SP_TF_LF_SN/C265033"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.lcsc.com/datasheet/lcsc_datasheet_1811061308_JST-04FMS-1-0SP-TF-LF-SN_C265033.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "2.80mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C265033"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "JST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "04FMS-1.0SP-TF(LF)(SN)"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES0805)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2206010200_UNI-ROYAL-Uniroyal-Elec-0805W8F4701T5E_C17673.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "0.95mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C17673"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "UNI-ROYAL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "0805W8F4701T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7kO"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES0805)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2206010216_UNI-ROYAL-Uniroyal-Elec-0805W8F1000T5E_C17408.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "0.95mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C17408"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "UNI-ROYAL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "0805W8F1000T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100O"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3V3 Pin=C?-1
+Added Pin To Net: NetName=3V3 Pin=IC?-3
+Added Pin To Net: NetName=3V3 Pin=IC?-3
+Added Pin To Net: NetName=3V3 Pin=J?-3
+Added Net: Name=3V3
+Added Pin To Net: NetName=5V Pin=C?-1
+Added Pin To Net: NetName=5V Pin=J?-4
+Added Pin To Net: NetName=5V Pin=R?-1
+Added Net: Name=5V
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=IC?-2
+Added Pin To Net: NetName=GND Pin=J?-1
+Added Pin To Net: NetName=GND Pin=J?-5
+Added Pin To Net: NetName=GND Pin=J?-6
+Added Pin To Net: NetName=GND Pin=R?-2
+Added Net: Name=GND
+Added Pin To Net: NetName=IR Pin=IC?-4
+Added Pin To Net: NetName=IR Pin=IC?-4
+Added Pin To Net: NetName=IR Pin=J?-2
+Added Pin To Net: NetName=IR Pin=R?-1
+Added Net: Name=IR
+Added Pin To Net: NetName=NetIC?_1 Pin=IC?-1
+Added Pin To Net: NetName=NetIC?_1 Pin=IC?-2
+Added Net: Name=NetIC?_1
+Add Net: Net with name "NetIC?_1" already exists
+Added Class: Name=SideSensors
+Added Rule: Name=Schematic Supply Nets
+Added Rule: Name=Schematic Supply Nets_1
+Added Rule: Name=Schematic Supply Nets_2

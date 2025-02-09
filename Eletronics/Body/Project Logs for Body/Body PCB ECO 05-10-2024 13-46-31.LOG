@@ -1,0 +1,8 @@
+Change Component Footprint: Designator=U5 Old Footprint=QFN40P300X300X95-25N-D New Footprint=QFN-24_L3.0-W3.0-H0.9
+Change component parameters: Designator = "U5" ("U5"); Footprint = "QFN40P300X300X95-25N-D"; UniqueID = "\ZEZVGBOS\HYYXBODN" ("\ZEZVGBOS\HYYXBODN")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://product.tdk.com/system/files/dam/doc/product/sensor/mortion-inertial/imu/data_sheet/mpu-6500-datasheet2.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Geometry.Height"; Value = "0.95mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC"; Value = "C50278"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "TDK"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "MPU-6500"; VariantName = "[No Variations]"

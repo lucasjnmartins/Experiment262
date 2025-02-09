@@ -1,0 +1,9 @@
+Record=TopLevelDocument|FileName=Connectors.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=Connectors.SchDoc|FileName=Drivers.SchDoc|SheetNumber=8
+Record=NoMainPathDocument|SourceDocument=Connectors.SchDoc|FileName=Encoders.SchDoc|SheetNumber=7
+Record=NoMainPathDocument|SourceDocument=Connectors.SchDoc|FileName=ESP32.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=Connectors.SchDoc|FileName=Gyro.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=Connectors.SchDoc|FileName=HeadSensors.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=Connectors.SchDoc|FileName=Leds.SchDoc|SheetNumber=6
+Record=NoMainPathDocument|SourceDocument=Connectors.SchDoc|FileName=SideSensors.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=Connectors.SchDoc|FileName=Supply.SchDoc|SheetNumber=9
